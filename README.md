@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rahul Anand</h1>
 <h3 align="center">A Java Full-Stack developer from India</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anand25rahul&color=blue&style=flat" alt="Profile views"/>
+</p>
+
+
 - 🔭 I’m currently working on [Bus Reservation App](https://github.com/Anand25rahul/Reservation-app)
 
 - 🌱 I’m currently learning **Java Full-Stack**
