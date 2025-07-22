@@ -6,9 +6,13 @@
 </p>
 
 
-- 🔭 I’m currently working on [Bus Reservation App](https://github.com/Anand25rahul/Reservation-app)
+- 🔭 I’m currently working on **GPS Tracking Systems** at Speedotrack GPS Pvt Ltd
 
-- 🌱 I’m currently learning **Java Full-Stack**
+- 👨‍🏫 Building **School Management Software** at **Edusoft**
+
+- 📱 Developing **Android & iOS apps** using **Flutter & FlutterFlow**
+
+- 📦 Experienced in **Java Full-Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anand25rahul/portfolio](https://portfolio-ten-drab-91.vercel.app/)
 
@@ -31,3 +35,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anand25rahul&show_icons=true&theme=radical" alt="anand25rahul"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand25rahul&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
+
+### 📌 Featured Projects
+
+- 🛰️ GPS Tracking System – GPS Software & App](https://gps.speedotrack.com)
+- 🏫 School Management ERP Platform – School management software & App](https://app.edusoft.in)
+
+### 🧠 Currently Learning
+
+- ⚡ node.js
+
+
+### 📬 Want to Collaborate?
+
+Feel free to reach out through any of the links above – let’s build something amazing!
