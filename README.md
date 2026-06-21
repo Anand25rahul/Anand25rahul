@@ -43,7 +43,7 @@
 
 ### 🧠 Currently Learning
 
-- ⚡ node.js
+- ⚡ Devops
 
 
 ### 📬 Want to Collaborate?
