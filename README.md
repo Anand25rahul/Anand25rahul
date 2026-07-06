@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://vercel.com/rahul-anands-projects-79e15916/portfolio" target="_blank">
+  <a href="https://portfolio-pi-pied-sai6cgm1x3.vercel.app/" target="_blank">
     🌐 Visit My Portfolio
   </a>
 </p>
